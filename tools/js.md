@@ -13,6 +13,8 @@
 * [wait](https://github.com/elving/wait)
 * [async](https://github.com/caolan/async)
 * [format.js](http://formatjs.io/)
+* [fetch (polyfill)](https://github.com/github/fetch)
+* [RxJS](https://github.com/Reactive-Extensions/RxJS)
 
 ##### Transpiling (ESX to ESX):
 
@@ -146,7 +148,7 @@
 
 
 
- 
+
 
 
 

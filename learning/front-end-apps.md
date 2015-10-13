@@ -5,6 +5,7 @@
 * [Human JavaScript](http://read.humanjavascript.com/) [read]
 * [Programming JavaScript Applications](http://chimera.labs.oreilly.com/books/1234000000262/index.html) [read]
 * [Building Modern Single-Page Web Applications](https://frontendmasters.com/workshops/web-apps/) [watch][$]
+* [Single page apps in depth (a.k.a Mixu's single page app book)](http://singlepageappbook.com/) [read]
 * [Organizing JavaScript Functionality](https://frontendmasters.com/courses/organizing-javascript/) [watch][$]
 * [Eloquent JavaScript: modules](http://eloquentjavascript.net/10_modules.html) [read]
 * [Web UI Architecture](https://frontendmasters.com/courses/web-ui-architecture/) [watch][$]
@@ -36,7 +37,7 @@
 
 
 
- 
+
 
 
 
